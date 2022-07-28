@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ParserTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-06-06T19:40:20" hostname="ML-C02YF1GKJGH6" time="0.012">
+  <properties/>
+  <testcase name="parseFramesMixedResults()" classname="org.example.ParserTest" time="0.002"/>
+  <testcase name="parseFramesTwoStrikesMiss()" classname="org.example.ParserTest" time="0.001"/>
+  <testcase name="parseFramesSpareTest()" classname="org.example.ParserTest" time="0.001"/>
+  <testcase name="parseFramesTwoStrikesRegular()" classname="org.example.ParserTest" time="0.0"/>
+  <testcase name="parseFramesOneSpareOneStrike()" classname="org.example.ParserTest" time="0.001"/>
+  <testcase name="parseFramesOneSpareOneMiss()" classname="org.example.ParserTest" time="0.001"/>
+  <testcase name="parseFramesThreeStrikes()" classname="org.example.ParserTest" time="0.0"/>
+  <testcase name="parseFramesTwoSparesOneRegular()" classname="org.example.ParserTest" time="0.001"/>
+  <testcase name="parseFramesOneStrikeTwoRegular()" classname="org.example.ParserTest" time="0.0"/>
+  <testcase name="parseFramesThreeStrikeTenthFrame()" classname="org.example.ParserTest" time="0.0"/>
+  <testcase name="parseFramesOneStrikeSpare()" classname="org.example.ParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

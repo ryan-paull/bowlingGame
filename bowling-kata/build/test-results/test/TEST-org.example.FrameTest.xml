@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.FrameTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-06-06T19:40:20" hostname="ML-C02YF1GKJGH6" time="0.034">
+  <properties/>
+  <testcase name="getFrameScore()" classname="org.example.FrameTest" time="0.026"/>
+  <testcase name="getFrameScoreStrikeStrike()" classname="org.example.FrameTest" time="0.001"/>
+  <testcase name="getFrameScoreStrikeStrikeSpare()" classname="org.example.FrameTest" time="0.0"/>
+  <testcase name="getFrameScoreNextBlank()" classname="org.example.FrameTest" time="0.001"/>
+  <testcase name="getFrameScoreWithThreeStrikes()" classname="org.example.FrameTest" time="0.0"/>
+  <testcase name="getFrameScoreWithStrikeSpareRegular()" classname="org.example.FrameTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

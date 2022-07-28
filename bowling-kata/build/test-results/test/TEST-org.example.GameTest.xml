@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.GameTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-06T19:40:20" hostname="ML-C02YF1GKJGH6" time="0.005">
+  <properties/>
+  <testcase name="calculateScoreFourStrikes()" classname="org.example.GameTest" time="0.002"/>
+  <testcase name="calculateScoreTwoStrikes()" classname="org.example.GameTest" time="0.001"/>
+  <testcase name="calculateScoreLastSpareRegular()" classname="org.example.GameTest" time="0.001"/>
+  <testcase name="calculateScoreAllStrikes()" classname="org.example.GameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
